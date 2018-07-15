@@ -1,0 +1,37 @@
+.row{   
+    display:flex;
+    justify-content:space-around;
+    background-color:black;
+    color:white;
+    font-size:20px;
+    font-family:'Gaegu', cursive;
+    margin-left:0px;
+
+}
+
+.headshot{
+ width:50%;
+ border-radius:100px;
+}
+
+.aboutMe {
+ width:10px;
+ height:10px;
+    
+}
+
+
+
+
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+
